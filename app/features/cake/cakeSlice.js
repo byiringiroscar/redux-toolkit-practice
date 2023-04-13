@@ -16,3 +16,6 @@
     }
 
  })
+
+module.exports = cakeSlice.reducer
+module.exports.cakeActions = cakeSlice.actions
